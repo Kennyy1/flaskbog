@@ -1,2 +1,18 @@
 to check the branch you're working on, use the command:
 -git branch
+
+To check the status of your repository, use the command:
+-git status
+
+To check commit history, use the command:
+-git log
+
+To add files to the staging directory, use the command:
+-git add
+
+To commit changes, use the command:
+-git commit -m "message"
+
+To push your commits to the remote repository, use the command:
+-git push origin master || git push origin <branch> || git push 
+
