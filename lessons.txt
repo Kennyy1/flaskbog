@@ -1,0 +1,2 @@
+to check the branch you're working on, use the command:
+-git branch
