@@ -7,8 +7,8 @@ To switch to a branch, use the following command:
 To view your remote URL for a repository, use the following command:
 -git remote -v
 
-<<<<<<< HEAD
-=======
 To delete a branch, use the following command:
 git branch -d <branch_name>
->>>>>>> c1d709004cb5d819abdd5531b6c8e98aee0e68d8
+
+To delete a branch, use the following command:
+git branch -d <branch_name>
