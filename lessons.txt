@@ -21,3 +21,4 @@ To fetch commits from the remote repository, use the command:
 
 To pull commits from the remote repository, use the command:
 -git pull origin master|| git pull origin <branch> || git pull
+
