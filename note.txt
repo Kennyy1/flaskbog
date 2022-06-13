@@ -1,0 +1,5 @@
+when i encountered the Error fatal: No configured push destination. Either specify the URL from the command-line or 
+configure a remote repository using.../
+solution: add a server (called remote in git terminology) to the repository by copying the git https link to the repository
+ie: git remote add origin https://github.com/Kennyy1/flaskbog.git
+then git push --set-upstream origin master (--set upstream origin master was used because at the first it wont recognise where to push)
